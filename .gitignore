@@ -1,0 +1,12 @@
+# Visual Studio IDE state — solution user options, editor layout, file index
+.vs/
+
+# Compiled build output — regenerated every time you press Build
+[Bb]in/
+[Oo]bj/
+
+# Per-developer project settings — local publish paths, debugger prefs
+*.user
+
+# ClickOnce manifest signing key — never publish private keys
+*.pfx
